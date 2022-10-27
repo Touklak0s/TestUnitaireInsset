@@ -39,7 +39,7 @@ public class NombrePremierTest {
     }
 
     /**
-     * Test de la methode isPremier aec un nombre premier
+     * Test de la methode isPremier av ec un nombre premier
      */
     @org.junit.Test
     public void testIsPremierOK() {

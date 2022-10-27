@@ -33,7 +33,7 @@ public class NombrePremierParameterTest {
         );
     }
 
-    //Le runner Parameterized Parameterized va injecter les valeurs fournies par la précédente méthode dans des attributs de classe afin de les rendre 
+    //Le runner Parameterized Parameterized va injecter les valeurs fournies par la précédente méthode dans des attributs de classe afin de les rendre ‘
     //accessibles aux méthodes de test. Par conséquent, il faut ajouter les attributs et le constructeur nécessaires à cette injection : 
     private final int nombre;
     private final boolean isPremier;

@@ -78,6 +78,8 @@ public class StringUtils {
             map.put(String.valueOf(str.charAt(i)), nombreOccurrencesCharActuel);
 
         }
+        System.out.println( map.toString());
+
         return map;
 
     }
